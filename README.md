@@ -34,8 +34,7 @@ The following models were implemented and compared:
 Each model was analyzed using:
 
 - **Confusion Matrix**  
-- **Classification Report**  
-- **ROC-AUC Score**
+- **Classification Report**
 
 ---
 
